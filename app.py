@@ -1,0 +1,1 @@
+from instapy_cli import client
